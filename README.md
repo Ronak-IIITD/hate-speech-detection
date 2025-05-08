@@ -36,4 +36,5 @@ This project is for academic purposes. Dataset content may be offensive as it is
 ## 📧 Contact
 
 Created by Ronak Anand – feel free to reach out!
-email-anandronak8826@gmail.com
+
+email - anandronak8826@gmail.com
