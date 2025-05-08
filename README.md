@@ -31,3 +31,7 @@ The notebook prints evaluation metrics such as accuracy, confusion matrix, and m
 
 ## 📌 Note
 This project is for academic purposes. Dataset content may be offensive as it is used for training detection algorithms.
+
+📧 Contact
+Created by Ronak Anand – feel free to reach out!
+email-anandronak8826@gmail.com
